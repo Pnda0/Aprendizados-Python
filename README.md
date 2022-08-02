@@ -1,1 +1,1 @@
-# Aprendizados-Python
+# Alguns aprendizados legais de um curso maneiro 
